@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @maria.kovaleva
+- 👋 Hi, I’m @maria-kovaleva-australia
 - 👀 I’m interested in sharing codes, finding useful tools and collaborating with other researchers and educators
 - 🌱 I’m currently learning to process astronomical images
 - 💞️ I’m looking to collaborate on radio astronomy, antenna engineering, applied evolutionary optimization
